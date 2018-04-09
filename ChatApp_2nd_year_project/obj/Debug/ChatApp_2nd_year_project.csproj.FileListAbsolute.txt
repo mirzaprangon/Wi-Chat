@@ -1,0 +1,19 @@
+f:\inkiad\my\visual studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.exe.config
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.exe
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.pdb
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.Form1.resources
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.Properties.Resources.resources
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.csproj.GenerateResource.Cache
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.exe
+f:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.pdb
+F:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.formAbout.resources
+F:\Inkiad\MY\Visual Studio 2012\Projects\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.csprojResolveAssemblyReference.cache
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.exe.config
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.exe
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.pdb
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.exe
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\bin\Debug\ChatApp_2nd_year_project.pdb
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.formAbout.resources
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.Form1.resources
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.Properties.Resources.resources
+C:\Users\Inkiad\Desktop\ChatApp_2nd_year_project\ChatApp_2nd_year_project\obj\Debug\ChatApp_2nd_year_project.csproj.GenerateResource.Cache
